@@ -1,0 +1,12 @@
+[submodule "cl-zmq"]
+	path = cl-zmq
+	url = git://github.com/lhope/cl-zmq.git
+[submodule "lisp-gflags"]
+	path = lisp-gflags
+	url = git://github.com/lhope/lisp-gflags.git
+[submodule "lisp-zmq"]
+	path = lisp-zmq
+	url = git://github.com/lhope/lisp-zmq.git
+[submodule "cffi"]
+	path = cffi
+	url = git://github.com/lhope/cffi.git
