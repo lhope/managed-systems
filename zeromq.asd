@@ -1,1 +1,0 @@
-cl-zmq/zeromq.asd
