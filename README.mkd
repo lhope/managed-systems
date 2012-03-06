@@ -1,0 +1,14 @@
+# managed-systems
+
+## Description
+
+`managed-systems` is just a few custom lisp systems managed by me. It points to the systems using git's submodule feature. All the systems are forks from github, some with pull requests pending. :-)
+
+To use, cd to the directory you cloned managed-systems into, and run
+./install.sh
+
+This will pull down the submodules, and write out
+~/.config/common-lisp/source-registry.conf.d/23-managed-systems.conf
+
+The file tells asdf2 to use the managed systems above quicklisp systems.
+
