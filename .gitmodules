@@ -1,3 +1,9 @@
 [submodule "lisp-gflags"]
 	path = lisp-gflags
 	url = git://github.com/lhope/lisp-gflags.git
+[submodule "cl-czmq"]
+	path = cl-czmq
+	url = https://github.com/lhope/cl-czmq.git
+[submodule "bordeaux-threads"]
+	path = bordeaux-threads
+	url = https://github.com/lhope/bordeaux-threads.git
