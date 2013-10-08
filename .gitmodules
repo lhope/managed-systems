@@ -7,3 +7,6 @@
 [submodule "bordeaux-threads"]
 	path = bordeaux-threads
 	url = https://github.com/lhope/bordeaux-threads.git
+[submodule "sb-daemon"]
+	path = sb-daemon
+	url = https://github.com/nikodemus/sb-daemon.git
