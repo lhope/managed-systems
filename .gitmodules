@@ -10,3 +10,9 @@
 [submodule "sb-daemon"]
 	path = sb-daemon
 	url = https://github.com/nikodemus/sb-daemon.git
+[submodule "base"]
+	path = base
+	url = https://github.com/lhope/base.git
+[submodule "cl-memcached"]
+	path = cl-memcached
+	url = https://github.com/lhope/cl-memcached.git
