@@ -16,3 +16,6 @@
 [submodule "cl-memcached"]
 	path = cl-memcached
 	url = https://github.com/lhope/cl-memcached.git
+[submodule "cl-smtp"]
+	path = cl-smtp
+	url = https://github.com/lhope/cl-smtp.git
