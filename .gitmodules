@@ -1,6 +1,6 @@
 [submodule "lisp-gflags"]
 	path = lisp-gflags
-	url = git://github.com/lhope/lisp-gflags.git
+	url = https://github.com/lhope/lisp-gflags.git
 [submodule "cl-czmq"]
 	path = cl-czmq
 	url = https://github.com/lhope/cl-czmq.git
