@@ -19,3 +19,7 @@
 [submodule "cl-smtp"]
 	path = cl-smtp
 	url = https://github.com/lhope/cl-smtp.git
+[submodule "ironclad"]
+	path = ironclad
+	url = git@github.com:lhope/ironclad.git
+	branch = v0.55
